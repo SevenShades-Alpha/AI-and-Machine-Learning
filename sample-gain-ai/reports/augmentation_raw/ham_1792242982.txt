@@ -1,0 +1,7 @@
+[
+  {"text": "Hey, running about 10 mins late. Traffic is crazy on the highway. Save me a seat!", "label": "ham"},
+  {"text": "Did you end up finishing that report for the meeting tomorrow? Let me know if you need help with the slides.", "label": "ham"},
+  {"text": "Can you pick up some milk and eggs on your way home? We are completely out.", "label": "ham"},
+  {"text": "Happy birthday! Hope you have an amazing day. Let's grab dinner this weekend to celebrate.", "label": "ham"},
+  {"text": "Sounds good to me. Just text me when you're outside and I'll come down to grab it.", "label": "ham"}
+]

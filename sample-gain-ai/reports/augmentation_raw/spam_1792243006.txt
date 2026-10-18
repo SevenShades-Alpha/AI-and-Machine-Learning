@@ -1,0 +1,7 @@
+[
+  {"text": "CONGRATULATIONS! You have been selected for a $500 Amazon Gift Card. Claim your prize now by clicking http://bit.ly/amzn-prize88 Reply STOP to opt out.", "label": "spam"},
+  {"text": "Get cash fast! You are pre-approved for a $2000 personal loan with zero credit check. Reply YES or visit http://quickcash-loans.net to get funds today.", "label": "spam"},
+  {"text": "FedEx Notice: Your parcel delivery is on hold due to an unpaid shipping fee of $1.99. Please update your payment info at http://fedex-update.com/deliver", "label": "spam"},
+  {"text": "Hey! 3 local singles near you want to meet up tonight. See their private pics and chat now: http://meet-singles-local.net/msg Txt STOP to cancel", "label": "spam"},
+  {"text": "URGENT: Your account has been temporarily suspended due to unusual login attempts. Verify your identity immediately at http://secure-verify-account.com to restore access.", "label": "spam"}
+]

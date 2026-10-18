@@ -1,0 +1,65 @@
+[
+  {
+    "experiment": "aug_0_samples",
+    "original_train_samples": 100,
+    "augmented_samples_requested": 0,
+    "actual_train_samples": 100,
+    "test_samples": 1032,
+    "accuracy": 0.9147286821705426,
+    "precision_macro": 0.7951923076923078,
+    "recall_macro": 0.9245022123893805,
+    "f1_macro": 0.8405080364167696,
+    "confusion_matrix": [
+      [
+        824,
+        80
+      ],
+      [
+        8,
+        120
+      ]
+    ]
+  },
+  {
+    "experiment": "aug_6_samples",
+    "original_train_samples": 100,
+    "augmented_samples_requested": 6,
+    "actual_train_samples": 106,
+    "test_samples": 1032,
+    "accuracy": 0.9215116279069767,
+    "precision_macro": 0.8061132485626239,
+    "recall_macro": 0.9283738938053097,
+    "f1_macro": 0.8505959753567005,
+    "confusion_matrix": [
+      [
+        831,
+        73
+      ],
+      [
+        8,
+        120
+      ]
+    ]
+  },
+  {
+    "experiment": "aug_10_samples",
+    "original_train_samples": 100,
+    "augmented_samples_requested": 10,
+    "actual_train_samples": 110,
+    "test_samples": 1032,
+    "accuracy": 0.9186046511627907,
+    "precision_macro": 0.8013377599843765,
+    "recall_macro": 0.9267146017699115,
+    "f1_macro": 0.8462324393358875,
+    "confusion_matrix": [
+      [
+        828,
+        76
+      ],
+      [
+        8,
+        120
+      ]
+    ]
+  }
+]

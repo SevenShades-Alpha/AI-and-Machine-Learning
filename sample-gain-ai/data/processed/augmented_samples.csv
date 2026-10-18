@@ -1,0 +1,11 @@
+﻿text,label,source,review_status
+"Hey, running about 10 mins late. Traffic is crazy on the highway. Save me a seat!",ham,llm,pending
+Did you end up finishing that report for the meeting tomorrow? Let me know if you need help with the slides.,ham,llm,pending
+Can you pick up some milk and eggs on your way home? We are completely out.,ham,llm,pending
+Happy birthday! Hope you have an amazing day. Let's grab dinner this weekend to celebrate.,ham,llm,pending
+Sounds good to me. Just text me when you're outside and I'll come down to grab it.,ham,llm,pending
+CONGRATULATIONS! You have been selected for a $500 Amazon Gift Card. Claim your prize now by clicking http://bit.ly/amzn-prize88 Reply STOP to opt out.,spam,llm,pending
+Get cash fast! You are pre-approved for a $2000 personal loan with zero credit check. Reply YES or visit http://quickcash-loans.net to get funds today.,spam,llm,pending
+FedEx Notice: Your parcel delivery is on hold due to an unpaid shipping fee of $1.99. Please update your payment info at http://fedex-update.com/deliver,spam,llm,pending
+Hey! 3 local singles near you want to meet up tonight. See their private pics and chat now: http://meet-singles-local.net/msg Txt STOP to cancel,spam,llm,pending
+URGENT: Your account has been temporarily suspended due to unusual login attempts. Verify your identity immediately at http://secure-verify-account.com to restore access.,spam,llm,pending

@@ -1,0 +1,29 @@
+{
+  "experiment_note": "exploratory_pending_samples",
+  "training_samples_baseline": 100,
+  "training_samples_augmented": 110,
+  "augmentation_samples_used": 10,
+  "test_samples": 1032,
+  "baseline": {
+    "experiment": "compare_baseline",
+    "test_samples": 1032,
+    "accuracy": 0.9147286821705426,
+    "precision_macro": 0.7951923076923078,
+    "recall_macro": 0.9245022123893805,
+    "f1_macro": 0.8405080364167696
+  },
+  "augmented": {
+    "experiment": "compare_augmented",
+    "test_samples": 1032,
+    "accuracy": 0.9186046511627907,
+    "precision_macro": 0.8013377599843765,
+    "recall_macro": 0.9267146017699115,
+    "f1_macro": 0.8462324393358875
+  },
+  "delta_augmented_minus_baseline": {
+    "accuracy": 0.003876,
+    "precision_macro": 0.006145,
+    "recall_macro": 0.002212,
+    "f1_macro": 0.005724
+  }
+}

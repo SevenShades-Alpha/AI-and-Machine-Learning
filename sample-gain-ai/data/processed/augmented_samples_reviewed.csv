@@ -1,0 +1,11 @@
+﻿text,label,source,review_status,reviewed_label,review_notes
+"Hey, running about 10 mins late. Traffic is crazy on the highway. Save me a seat!",ham,llm,approved,ham,人工审核通过：日常迟到与交通沟通，无明显广告或诱导内容。
+Did you end up finishing that report for the meeting tomorrow? Let me know if you need help with the slides.,ham,llm,approved,ham,人工审核通过：正常工作沟通，询问报告进度并提供帮助。
+Can you pick up some milk and eggs on your way home? We are completely out.,ham,llm,approved,ham,人工审核通过：日常家庭购物请求，无广告或诱导内容。
+Happy birthday! Hope you have an amazing day. Let's grab dinner this weekend to celebrate.,ham,llm,approved,ham,人工审核通过：生日祝福与社交邀约，符合正常交流。
+Sounds good to me. Just text me when you're outside and I'll come down to grab it.,ham,llm,approved,ham,人工审核通过：日常见面协调，无明显广告或诱导内容。
+CONGRATULATIONS! You have been selected for a $500 Amazon Gift Card. Claim your prize now by clicking http://bit.ly/amzn-prize88 Reply STOP to opt out.,spam,llm,approved,spam,人工审核通过：中奖礼品卡并诱导点击领取链接，符合垃圾/诈骗短信特征；链接未验证。
+Get cash fast! You are pre-approved for a $2000 personal loan with zero credit check. Reply YES or visit http://quickcash-loans.net to get funds today.,spam,llm,approved,spam,人工审核通过：以快速贷款和低门槛承诺吸引回复或访问链接，符合垃圾推广特征；链接未验证。
+FedEx Notice: Your parcel delivery is on hold due to an unpaid shipping fee of $1.99. Please update your payment info at http://fedex-update.com/deliver,spam,llm,approved,spam,人工审核通过：冒充快递通知并要求通过链接更新付款信息，符合钓鱼短信特征；链接未验证。
+Hey! 3 local singles near you want to meet up tonight. See their private pics and chat now: http://meet-singles-local.net/msg Txt STOP to cancel,spam,llm,approved,spam,人工审核通过：以附近交友及私密照片诱导点击链接，符合垃圾推广特征；链接未验证。
+URGENT: Your account has been temporarily suspended due to unusual login attempts. Verify your identity immediately at http://secure-verify-account.com to restore access.,spam,llm,approved,spam,人工审核通过：以账户暂停和紧迫验证要求诱导访问链接，符合钓鱼短信特征；链接未验证。
